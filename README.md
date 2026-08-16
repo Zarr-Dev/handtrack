@@ -11,7 +11,7 @@ This repository contains numerous works created by a content creator. If you wan
 2. **I own the rights to this project.** You are free to use and modify it; however, if you share it publicly, you must give me credit. (Proyek ini milik hak aku. Kamu bebas saja menggunakannya dan memodifikasi, jika ingin membawa nya ke publik, kamu perlu membawakanku ke credit!)
 3. **Ensure you have the latest version of Visual Studio Code and are using Python.** The files are designed to run in that environment; otherwise, you will need to make your own adjustments. (Pastikan kamu punya Visual Studio Code versi terbaru dan menggunakan Python. File nya nanti hanya bisa dijalankan disana, selain itu sebaiknya edit sendiri.)
 
-# Windows 95 Nostalgia
+## Windows 95 Nostalgia
 **Get py there: https://**
 
 Have fun playing with MediaPipe! I hope you enjoy it!
