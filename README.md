@@ -15,19 +15,19 @@ Have fun playing with MediaPipe! I hope you enjoy it!
 
 ## Windows Nostalgia
 
-<img width="971" height="727" alt="image" src="https://github.com/user-attachments/assets/72b82a3a-9473-4d87-907b-d9dd452787b5" />
+<img width="571" height="727" alt="image" src="https://github.com/user-attachments/assets/72b82a3a-9473-4d87-907b-d9dd452787b5" />
 
 **Get py there: https://**
 
 ## Thousand Effect
 
-<img width="966" height="542" alt="image" src="https://github.com/user-attachments/assets/c9f9071a-33ce-4bbd-bf7d-45a21d2f6344" />
+<img width="666" height="542" alt="image" src="https://github.com/user-attachments/assets/c9f9071a-33ce-4bbd-bf7d-45a21d2f6344" />
 
 **Get py there: https://**
 
 ## Ur Quote
 
-<img width="951" height="515" alt="image" src="https://github.com/user-attachments/assets/4642ef4b-a7e2-4af9-814a-e24377c71dd5" />
+<img width="751" height="515" alt="image" src="https://github.com/user-attachments/assets/4642ef4b-a7e2-4af9-814a-e24377c71dd5" />
 
 **Get py there: https://**
 
@@ -43,7 +43,13 @@ Have fun playing with MediaPipe! I hope you enjoy it!
 
 ## Take Photo
 
+
+
+
 **Get py there: https://**
+
+**So, what effect are we going to play next?**
+
 
 
 
