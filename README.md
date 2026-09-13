@@ -18,36 +18,33 @@ Have fun playing with MediaPipe! I hope you enjoy it!
 <img width="971" height="727" alt="image" src="https://github.com/user-attachments/assets/72b82a3a-9473-4d87-907b-d9dd452787b5" />
 It was so much fun, and I really admired the beauty of Windows back then... I even used to dream about it, haha.
 
-**Get py there: https://**
 
 ## Thousand Effect
 
 <img width="966" height="542" alt="image" src="https://github.com/user-attachments/assets/c9f9071a-33ce-4bbd-bf7d-45a21d2f6344" />
 I actually uploaded something about Instagram Effects before, but that was just experimenting. I got hooked and ended up adding dozens more!
 
-**Get py there: https://**
 
 ## Ur Quote
 
 <img width="951" height="515" alt="image" src="https://github.com/user-attachments/assets/4642ef4b-a7e2-4af9-814a-e24377c71dd5" />
 Add your own motivational words (you can change them) and share them with your friends!
 
-**Get py there: https://**
 
 ## Little Eyes
 
-**Get py there: https://**
 
 ## Electric Engineering
 
 <img width="951" height="521" alt="image" src="https://github.com/user-attachments/assets/a869c8bb-5e8c-4590-bd80-7ec32126e964" />
 It feels like having electric powers, haha! I'm still hooked on playing this every day! It actually makes me want to study math again.
 
-**Get py there: https://**
 
 ## Take Photo
 
-**Get py there: https://**
+Get Python folder (ZIP) here! https://
+Follow & enjoy us! https://instagram.com/ernesto.zarr
+
 
 **So, what effect are we going to play next?**
 
