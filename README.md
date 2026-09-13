@@ -19,4 +19,6 @@ This repository contains numerous works created by a content creator. If you wan
 
 ## Thousand Effect
 
+<img width="966" height="542" alt="image" src="https://github.com/user-attachments/assets/c9f9071a-33ce-4bbd-bf7d-45a21d2f6344" />
+
 Have fun playing with MediaPipe! I hope you enjoy it!
