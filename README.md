@@ -11,7 +11,9 @@ This repository contains numerous works created by a content creator. If you wan
 2. **I own the rights to this project.** You are free to use and modify it; however, if you share it publicly, you must give me credit. (Proyek ini milik hak aku. Kamu bebas saja menggunakannya dan memodifikasi, jika ingin membawa nya ke publik, kamu perlu membawakanku ke credit!)
 3. **Ensure you have the latest version of Visual Studio Code and are using Python.** The files are designed to run in that environment; otherwise, you will need to make your own adjustments. (Pastikan kamu punya Visual Studio Code versi terbaru dan menggunakan Python. File nya nanti hanya bisa dijalankan disana, selain itu sebaiknya edit sendiri.)
 
-## Windows 95 Nostalgia!
+Have fun playing with MediaPipe! I hope you enjoy it!
+
+## Windows Nostalgia
 
 <img width="971" height="727" alt="image" src="https://github.com/user-attachments/assets/72b82a3a-9473-4d87-907b-d9dd452787b5" />
 
@@ -21,4 +23,27 @@ This repository contains numerous works created by a content creator. If you wan
 
 <img width="966" height="542" alt="image" src="https://github.com/user-attachments/assets/c9f9071a-33ce-4bbd-bf7d-45a21d2f6344" />
 
-Have fun playing with MediaPipe! I hope you enjoy it!
+**Get py there: https://**
+
+## Ur Quote
+
+<img width="951" height="515" alt="image" src="https://github.com/user-attachments/assets/4642ef4b-a7e2-4af9-814a-e24377c71dd5" />
+
+**Get py there: https://**
+
+## Little Eyes
+
+**Get py there: https://**
+
+## Electric Engineering
+
+<img width="951" height="521" alt="image" src="https://github.com/user-attachments/assets/a869c8bb-5e8c-4590-bd80-7ec32126e964" />
+
+**Get py there: https://**
+
+## Take Photo
+
+**Get py there: https://**
+
+
+
